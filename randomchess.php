@@ -2,7 +2,7 @@
 
 /**
  * Random chess move generator
- * Author: Dennis Vink (dennis@i3d.net, http://www.i3d.net)
+ * Author: Dennis Vink (sinned@protonmail.ch, https://www.satanclaus.com)
  * Note: Coded on a drunk saturday night for no particular purpose.
  */
 
